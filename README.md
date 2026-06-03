@@ -144,9 +144,10 @@ Architecture for **Grasshopper ↔ Rhino.Compute** bidirectional sync:
 |---|---|
 | ![ProA](screenshots/pdf_proa.png) | ![Bid](screenshots/pdf_bid.png) |
 
-| PDF — Minimal (B&W) | KSR Rate Book |
+| Autocad — Revit (add-ins) | KSR Rate Book |
 |---|---|
-| ![Minimal](screenshots/pdf_minimal.png) | ![KSR](screenshots/ksr.png) |
+| ![Minimal](screenshots/revit.png) | ![KSR](screenshots/ksr.png) |
+| ![KSR](screenshots/Autocad.png) |  | ![KSR](screenshots/project.png) |
 
 ---
 
